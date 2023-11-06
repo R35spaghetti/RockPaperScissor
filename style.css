@@ -1,0 +1,24 @@
+.scoreBoard {
+    margin: 10px;
+    width: 200px;
+    height: 100px;
+    padding: 10px;
+    border: 1px solid black;
+    background-color: lightgray;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+}
+.lastPlay {
+    margin: 10px;
+    width: 200px;
+    height: 100px;
+    padding: 10px;
+    border: 1px solid black;
+    background-color: lightgray;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+}
